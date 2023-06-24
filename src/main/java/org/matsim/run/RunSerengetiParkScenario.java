@@ -72,7 +72,7 @@ public final class RunSerengetiParkScenario {
 		}
 		
 		if ( args.length==0 ) {
-			args = new String[] {"./scenarios/serengeti-park-v1.0/input/serengeti-park-config-v1.0.xml"}  ;
+			args = new String[] {"./scenarios/serengeti-park-v1.0/input/serengeti-park-config-v2.0.xml"}  ;
 		}
 
 		Config config = prepareConfig( args ) ;
